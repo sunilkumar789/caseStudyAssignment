@@ -1,0 +1,4 @@
+INSERT INTO TBL_ACCOUNT (accountNumber, amount) VALUES
+  (123456, 200.00),
+  (456789, 100.00);
+  
